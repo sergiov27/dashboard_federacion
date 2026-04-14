@@ -1,0 +1,1952 @@
+[
+  {
+    "jugador": "J. Meneses",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Maximiliano Romero",
+    "equipo": "Colo Colo",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "F. Calderón",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Medina",
+    "equipo": "Everton",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "F. Máter",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "J. Altamirano",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Agustín Urzi",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "C. Aránguiz",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Joaquín Sosa",
+    "equipo": "Colo Colo",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Javier Correa",
+    "equipo": "Colo Colo",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "D. Valencia",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "G. Escalante",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jonathan Villagra",
+    "equipo": "Colo Colo",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "M. Guerrero",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "M. Marín",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Lucero",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "D. Rubio",
+    "equipo": "La Serena",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Maximiliano Rodríguez",
+    "equipo": "Huachipato",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "E. Roco",
+    "equipo": "Palestino",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Berríos",
+    "equipo": "Everton",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Stefanelli",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Tomás Alarcón",
+    "equipo": "Colo Colo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Vargas",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "N. Ramírez",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "J. Valencia",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Villalpando",
+    "equipo": "Everton",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Munder",
+    "equipo": "Palestino",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Dylan Glaby",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Benjamín Gazzolo",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Á. Madrid",
+    "equipo": "Colo Colo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Poblete",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Antonio Díaz",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "F. Salomoni",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "G. Graciani",
+    "equipo": "Ñublense",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Sebastián Galani",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Matías Fernández",
+    "equipo": "Colo Colo",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Cabral",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "F. Ovelar",
+    "equipo": "Ñublense",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "F. Chamorro",
+    "equipo": "La Serena",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Erick Wiemberg",
+    "equipo": "Colo Colo",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "C. Cuevas",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "H. Magallanes",
+    "equipo": "Everton",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "D. Zúñiga",
+    "equipo": "Palestino",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Luciano Arriagada",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Abrigo",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Frías",
+    "equipo": "Rosario Central",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Pino",
+    "equipo": "Cobresal",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "D. Gutiérrez",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Kevin Méndez",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Campusano",
+    "equipo": "Ñublense",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "T. Asta-Buruaga",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "J. Gutiérrez",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "A. Ceza",
+    "equipo": "Palestino",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Rojas",
+    "equipo": "O'Higgins",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "T. Vecino",
+    "equipo": "O'Higgins",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Cris Martínez",
+    "equipo": "Huachipato",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "B. Cerezo",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "A. Nadruz",
+    "equipo": "Cobresal",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Ó. Rojas",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Jeraldino",
+    "equipo": "Ñublense",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "B. Ampuero",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Giani",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "N. Baeza",
+    "equipo": "Everton",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Brizuela",
+    "equipo": "O'Higgins",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Javier Méndez",
+    "equipo": "Colo Colo",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Montecinos",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "B. Rabello",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "M. Cavalleri",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Pavez",
+    "equipo": "O'Higgins",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "M. Ortíz",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "B. Carrasco",
+    "equipo": "Palestino",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "Ezequiel Cañete",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Alejandro Azócar",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Tiznado",
+    "equipo": "Cobresal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Díaz",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "E. Valencia",
+    "equipo": "Cobresal",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Bechtholdt",
+    "equipo": "Cobresal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Brea",
+    "equipo": "Cobresal",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Y. Leiva",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Mateos",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Oyarzo",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "C. Moya",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Troyansky",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "M. Collao",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Céspedes",
+    "equipo": "Ñublense",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "A. Canales",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Alfaro",
+    "equipo": "Everton",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Cecilio Waterman",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "B. Yáñez",
+    "equipo": "O'Higgins",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "Renzo Malanca",
+    "equipo": "Huachipato",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "R. Martínez",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "J. Leiva",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Elvis Hernández",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "B. Véjar",
+    "equipo": "Concepción",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "C. Pinares",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Rodríguez",
+    "equipo": "Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "R. Fernández",
+    "equipo": "Palestino",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "J. Fuentes",
+    "equipo": "Cobresal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "M. Campos",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Zaldivia",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "V. Fernández",
+    "equipo": "Everton",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "J. Benítez",
+    "equipo": "Palestino",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "C. Barrera",
+    "equipo": "Everton",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Claudio Sepúlveda",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "C. Fuentes",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Lionel Altamirano",
+    "equipo": "Huachipato",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "M. Dávila",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Rivero",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Pablo Parra",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Zampedri",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "E. Mena",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "B. Carvallo",
+    "equipo": "Cobresal",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "P. Guajardo",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "C. Villanueva",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jeyson Rojas",
+    "equipo": "Colo Colo",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "G. Medel",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "Bruno Gutiérrez",
+    "equipo": "La Serena",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "C. Palacios",
+    "equipo": "Everton",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "D. Oyarzún",
+    "equipo": "Everton",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Cristhofer Mesías",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Castillo",
+    "equipo": "O'Higgins",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Y. Gonzalez",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Mario Briceño",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Yerco Oyanedel",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "D. Carrasco",
+    "equipo": "Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Y. Rodríguez",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Gutiérrez",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "L. Reyes",
+    "equipo": "Ñublense",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Bosso",
+    "equipo": "Ñublense",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "José Ignacio Castro",
+    "equipo": "Huachipato",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Bizama",
+    "equipo": "Palestino",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Valencia",
+    "equipo": "Concepción",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "G. Pacheco",
+    "equipo": "Cobresal",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "F. Mac Allister",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "F. Meza",
+    "equipo": "Palestino",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Henríquez",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Sanhueza",
+    "equipo": "Ñublense",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Arturo Vidal",
+    "equipo": "Colo Colo",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "F. Campos",
+    "equipo": "Ñublense",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Juan Cornejo",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Maicol León",
+    "equipo": "Huachipato",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "M. Sandoval",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "Salvador Cordero",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Luis Riveros",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Luis Rojas",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Saldías",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Diaz",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "L. Alarcón",
+    "equipo": "La Serena",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Leonel González",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "M. Vera",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Parot",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Rafael Caroca",
+    "equipo": "Huachipato",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "G. Sosa",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "A. Robledo",
+    "equipo": "O'Higgins",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "E. Espinoza",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "C. Yanis",
+    "equipo": "Cobresal",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Díaz",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Bryan Ogaz",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Catalán",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Alejandro Camargo",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "A. Astudillo",
+    "equipo": "Cobresal",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "J. Requena",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Farías",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "R. González",
+    "equipo": "Everton",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "N. Meza",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Gallegos",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Castro",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Nicolás Vargas",
+    "equipo": "Huachipato",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "A. Cáceres",
+    "equipo": "Concepción",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Lucas Pratto",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "N. Sepúlveda",
+    "equipo": "Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Arturia",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Aguirre",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Cruz",
+    "equipo": "Real Oviedo Vetusta",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Delgado",
+    "equipo": "La Serena",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "H. Salgado",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "J. León",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Guido Vadalá",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "C. Salomón",
+    "equipo": "Ñublense",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Aedo",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Manuel Fernández",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Jara",
+    "equipo": "Concepción",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "S. Valencia",
+    "equipo": "Ñublense",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "S. Sáez",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Osvaldo González",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "C. Suárez",
+    "equipo": "Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Larrivey",
+    "equipo": "Concepción",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "D. Pereira",
+    "equipo": "Coquimbo Unido U18",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Montes",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "L. Romero",
+    "equipo": "Concepción",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Grillo",
+    "equipo": "Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Molina",
+    "equipo": "Ñublense",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "I. Tapia",
+    "equipo": "Ñublense",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "M. Fuentes",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "L. Assadi",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Sepúlveda",
+    "equipo": "Cobresal",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "V. Cárcamo",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Corral",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "J. Rossel",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Sandoval",
+    "equipo": "Cobresal",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Pablo Rodríguez",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. L’Huillier",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Benjamín Mellado",
+    "equipo": "Huachipato",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Alegria",
+    "equipo": "Palestino",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D.Salgado Soto",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Cristián Riquelme",
+    "equipo": "Colo Colo",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Moreno",
+    "equipo": "Cobresal",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Valenzuela Gonzál",
+    "equipo": "Cobresal",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Huerta",
+    "equipo": "Cobresal",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "C. Moreno",
+    "equipo": "Cobresal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Giovani Chiaverano",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "M. Jiménez Salinas",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. Soto Valdivia",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Sandoval",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Pozzo",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "D. Monreal",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "F. Loyola",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "D. Piña",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "E. Matus",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "A. Encinas",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "R. Cáseres",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "E. Ferrario",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "D. Coelho",
+    "equipo": "Audax Italiano",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Francisco Marchant",
+    "equipo": "Colo Colo",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Y. Cuevas",
+    "equipo": "Colo Colo",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "L. Pastrán",
+    "equipo": "Colo Colo",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Diego Ulloa",
+    "equipo": "Colo Colo",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Claudio Aquino",
+    "equipo": "Colo Colo",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Víctor Méndez",
+    "equipo": "Colo Colo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Romero",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Morales",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "F. Hormazábal",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "G. Ávalos Ovelar",
+    "equipo": "Ñublense",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Rami",
+    "equipo": "Ñublense",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "A. Valdés",
+    "equipo": "Ñublense",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "M. Plaza",
+    "equipo": "Ñublense",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "P. Calderón",
+    "equipo": "Ñublense",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "M. Rivera",
+    "equipo": "Ñublense",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Palavecino",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Martínez",
+    "equipo": "Universidad Católica",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "B. Sandoval",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Contreras Peres",
+    "equipo": "La Serena",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "D. Cordero Tapia",
+    "equipo": "La Serena",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Orellana",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Y. Salazar",
+    "equipo": "La Serena",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. Vargas",
+    "equipo": "La Serena",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "A. Zanini",
+    "equipo": "La Serena",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "R. Ricardo Andres",
+    "equipo": "Everton U18",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Guzmán Carreño",
+    "equipo": "Everton U20",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Cárcamo",
+    "equipo": "Everton",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Navarro",
+    "equipo": "Everton",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "E. Ramos",
+    "equipo": "Everton",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "V. Vega",
+    "equipo": "Everton",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "V. Vidal",
+    "equipo": "Everton",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Maximiliano Gutiérrez",
+    "equipo": "Independiente",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "B. Martínez",
+    "equipo": "Everton",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Moya",
+    "equipo": "Everton",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Lucas Soto",
+    "equipo": "Everton",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Herrera Caniupán",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Páez",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "C. Zambrano",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "D. Barrea",
+    "equipo": "Godoy Cruz",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jeison Fuentealba",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "A. Uribe",
+    "equipo": "Universidad de Concepcion U19",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "A. Gómez",
+    "equipo": "",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Garguez",
+    "equipo": "Palestino",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Rodrigo Godoy",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Faúndez",
+    "equipo": "O'Higgins",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "C. Morales",
+    "equipo": "O'Higgins",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Schamine",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "V. Espinoza",
+    "equipo": "Palestino",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "M. Araya",
+    "equipo": "Palestino",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Montes",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "G. Pinto",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Calderon",
+    "equipo": "O'Higgins",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Tapia",
+    "equipo": "O'Higgins",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "F. Ogaz",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "M. Maturana",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. González",
+    "equipo": "O'Higgins",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "N. Garrido",
+    "equipo": "O'Higgins",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Díaz",
+    "equipo": "O'Higgins",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "J. Fernández",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "G. Tapia",
+    "equipo": "Palestino",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "N. Da Silva",
+    "equipo": "Palestino",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "M. Sarrafiore",
+    "equipo": "O'Higgins",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Leandro Hernández",
+    "equipo": "Colo Colo",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "I. Vásquez",
+    "equipo": "Universidad de Chile",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Benjamín Sáez",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Amaro Jesus",
+    "equipo": "Everton U18",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jorge Espejo",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "F. Marín",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "V. Álvarez",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Flores",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "F. Moya",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Javier Cárcamo",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Lucas Velásquez",
+    "equipo": "Huachipato",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Kevin Altez",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "A. Alfonzo",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Santiago Silva",
+    "equipo": "Huachipato",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Claudio Torres",
+    "equipo": "Huachipato",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Morales",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Harold Antiñirre",
+    "equipo": "Huachipato",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Cristian Toro",
+    "equipo": "Huachipato",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Llantén",
+    "equipo": "Deportes Limache",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Dinamarca Tapia",
+    "equipo": "La Serena",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "M. Pinto",
+    "equipo": "La Serena",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Martín Mundaca",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Nicolás Johansen",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Á. Gillard",
+    "equipo": "Concepción",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "Benjamín Chandía",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "Javier Rojas",
+    "equipo": "Concepción",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Dylan Escobar",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "C. Escobar",
+    "equipo": "Concepción",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Sebastián Cabrera",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "R. Holgado",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "I. Mesías",
+    "equipo": "Concepción",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Francisco Salinas",
+    "equipo": "Coquimbo Unido",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "D. Vargas",
+    "equipo": "Universidad de Chile U17",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "D. Saavedra Yáñez",
+    "equipo": "Ñublense",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Melgarejo Vejar",
+    "equipo": "Huachipato U20",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Palma",
+    "equipo": "Unión La Calera",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Moisés Alejandro González",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "David Retamal",
+    "equipo": "Univ. Concepción",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "B. Ramirez",
+    "equipo": "",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Carrasco",
+    "equipo": "Cobresal",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  }
+]

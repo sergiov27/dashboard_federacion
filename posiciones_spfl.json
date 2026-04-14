@@ -1,0 +1,2090 @@
+[
+  {
+    "jugador": "A. Skov Olsen",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Aarons",
+    "equipo": "Rangers",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "C. Carter-Vickers",
+    "equipo": "Celtic",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "K. Iheanacho",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Tierney",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "R. Hatate",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Engels",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Balikwisha",
+    "equipo": "Celtic",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. McGregor",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "J. Karlsson",
+    "equipo": "Aberdeen",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "T. Čvančara",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Araujo",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "A. Trusty",
+    "equipo": "Celtic",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "D. Maeda",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "J. Tavernier",
+    "equipo": "Rangers",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "N. Raskin",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Danilo",
+    "equipo": "NEC",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "C. Dessers",
+    "equipo": "Panathinaikos",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Bajrami",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Shankland",
+    "equipo": "Hearts",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "M. Diomandé",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Sterling",
+    "equipo": "Rangers",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "B. Miovski",
+    "equipo": "Rangers",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "J. Adamu",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Paulo Bernardo",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Idah",
+    "equipo": "Swansea City",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Joshua Brenet",
+    "equipo": "Kayserispor",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "R. Matondo",
+    "equipo": "Rangers",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Souttar",
+    "equipo": "Rangers",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Dennis Geiger",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Cornelius",
+    "equipo": "Rangers",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "J. Rothwell",
+    "equipo": "Sheffield United",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Aouchiche",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Kevin Nisbet",
+    "equipo": "Aberdeen",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "L. Scales",
+    "equipo": "Celtic",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "D. Barlaser",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "N. Djiga",
+    "equipo": "Rangers",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Stuart Armstrong",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Yang Hyun-Jun",
+    "equipo": "Celtic",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "B. Nygren",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Allan Campbell",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Youan",
+    "equipo": "Hibernian",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "A. Ralston",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "D. Scarlett",
+    "equipo": "Hibernian",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Passlack",
+    "equipo": "Hibernian",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Dowell",
+    "equipo": "Hull City",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Mahamadou Susoho",
+    "equipo": "Kocaelispor",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "T. Chukwuani",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Marko Lazetić",
+    "equipo": "Aberdeen",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "B. Baningime",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Saracchi",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "M. Boyle",
+    "equipo": "Hibernian",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Scott Wright",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Kion Etete",
+    "equipo": "St. Mirren",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Topi Keskinen",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "F. Kent",
+    "equipo": "Hearts",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "K. Tobers",
+    "equipo": "Aberdeen",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Antman",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "Mats Knoester",
+    "equipo": "Aberdeen",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Clarkson",
+    "equipo": "Blackpool",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Kingsley",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "C. Devlin",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Yan Dhanda",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Barron",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "J. Russell",
+    "equipo": "",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Forrest",
+    "equipo": "Celtic",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "I. Said",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "E. Longelo",
+    "equipo": "Motherwell",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "G. Hanley",
+    "equipo": "Hibernian",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Lewis Mayo",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Keanu Baccus",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Alexander Jensen",
+    "equipo": "Aberdeen",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. McGrath",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Campbell",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Newell",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Strain",
+    "equipo": "Dundee United",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "B. Spittal",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Levitt",
+    "equipo": "Leyton Orient",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jefté",
+    "equipo": "Palmeiras",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Tom McIntyre",
+    "equipo": "Aberdeen",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Welsh",
+    "equipo": "Motherwell",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Forrest",
+    "equipo": "Hearts",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Dominic Thompson",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "T. Aasgaard",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Mark O'Hara",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Kabangu",
+    "equipo": "Hearts",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Cadden",
+    "equipo": "Hibernian",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Robbie Deas",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Eskesen",
+    "equipo": "Dundee United",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Greg Kiltie",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "N. Möller",
+    "equipo": "Dundee United",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Ryan Astley",
+    "equipo": "Dundee",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Lyall Cameron",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Tounekti",
+    "equipo": "Celtic",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "L. McCowan",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Findlay",
+    "equipo": "Hearts",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Bruce Anderson",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Nicky Devlin",
+    "equipo": "Aberdeen",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "A. Stamatelopoulos",
+    "equipo": "Sydney",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Tyreece John-Jules",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "A. Dorrington",
+    "equipo": "Tottenham Hotspur U21",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Koumetio",
+    "equipo": "Dundee",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Montgomery",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Aaron Tshibola",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Esselink",
+    "equipo": "Dundee United",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Marcus Fraser",
+    "equipo": "St. Mirren",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Alex Gogic",
+    "equipo": "St. Mirren",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Scott Tanser",
+    "equipo": "St. Mirren",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Afeez Aremu",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Toyosi Olusanya",
+    "equipo": "Aberdeen",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Nicholson",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Gordon",
+    "equipo": "Motherwell",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Fadinger",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "N. Cadden",
+    "equipo": "Hibernian",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Jonah Ayunga",
+    "equipo": "St. Mirren",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Alex Tamm",
+    "equipo": "Livingston",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Nicolas Milanovic",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Lewis Neilson",
+    "equipo": "Falkirk",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Ethan Hamilton",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Sivert Heltne Nilsen",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "C. Slattery",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "M. Leonard",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "A. Manneh",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Obita",
+    "equipo": "Hibernian",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "T. Yengi",
+    "equipo": "Livingston",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "E. Sokler",
+    "equipo": "Aberdeen",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Borchgrevink",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Scott Tiffoney",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Danny Wilson",
+    "equipo": "Livingston",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Brad Halliday",
+    "equipo": "Dundee",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Stephenson",
+    "equipo": "Dundee United",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "M. Watters",
+    "equipo": "Dundee United",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Dan Nlundulu",
+    "equipo": "St. Mirren",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "K. Trapanovski",
+    "equipo": "Dundee United",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "I. Chesnokov",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Bushiri",
+    "equipo": "Hibernian",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "K. Fotheringham",
+    "equipo": "St. Johnstone",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Yengi",
+    "equipo": "Aberdeen",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Magennis",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Mulligan",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Koutroumbis",
+    "equipo": "Motherwell",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Z. Rudden",
+    "equipo": "Dunfermline Athletic",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Robertson",
+    "equipo": "Dundee",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Liam Polworth",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Brad Lyons",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "J. Nouble",
+    "equipo": "Livingston",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Cameron Congreve",
+    "equipo": "Dundee",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Paul Digby",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "C. Sibbald",
+    "equipo": "Dundee United",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Rory McKenzie",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Graham",
+    "equipo": "Dundee United",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Ante Palaversa",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Graeme Shinnie",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Liam Donnelly",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. McGhee",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Just",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "C. Hendry",
+    "equipo": "Motherwell",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "R. Edwards",
+    "equipo": "",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Acquah",
+    "equipo": "Harrogate Town",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Cammy Kerr",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jayden Richardson",
+    "equipo": "St. Mirren",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "I. Dolček",
+    "equipo": "Dundee United",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "E. Watt",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "Cláudio Braga",
+    "equipo": "Hearts",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "J. McCart",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Blaney",
+    "equipo": "Sligo Rovers",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Scott Pittman",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Cristian Montano",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Drey Wright",
+    "equipo": "Dundee",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "I. Iovu",
+    "equipo": "Dundee United",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Panutche Camará",
+    "equipo": "Dundee United",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Killian Phillips",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jake Young",
+    "equipo": "St. Mirren",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Declan John",
+    "equipo": "St. Mirren",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "C. Halkett",
+    "equipo": "Hearts",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Liam Morrison",
+    "equipo": "Aberdeen",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. O'Donnell",
+    "equipo": "Motherwell",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "M. Steinwender",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Ethan Ingram",
+    "equipo": "Dundee",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jack Thomson",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "W. Ferry",
+    "equipo": "Dundee United",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "G. Carey",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Bowie",
+    "equipo": "Hellas Verona",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "A. Halliday",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Parkinson",
+    "equipo": "Falkirk",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Brian Graham",
+    "equipo": "Falkirk",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Ethan Ross",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Emmanuel Danso",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Scott Arfield",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Stevie May",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Robbie Muirhead",
+    "equipo": "Livingston",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Connor McLennan",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "R. Naderi",
+    "equipo": "Rangers",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "V. Ševelj",
+    "equipo": "Dundee United",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. Milne",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. Iredale",
+    "equipo": "Hibernian",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Jamie Brandon",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. McEntee",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. Brown",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Aidan Nesbitt",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Brad Spencer",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "Joe Hugill",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Marley Watkins",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ryan McGowan",
+    "equipo": "Livingston",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Mikael Mandron",
+    "equipo": "St. Mirren",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Danny Finlayson",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Finlay Robertson",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Simon Murray",
+    "equipo": "Dundee",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "K. Keresztes",
+    "equipo": "Dundee United",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Emmanuel Gyamfi",
+    "equipo": "Aberdeen",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "P. McGinn",
+    "equipo": "Motherwell",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Kyziridis",
+    "equipo": "Hearts",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "K. Balmer",
+    "equipo": "Bristol Rovers",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Kenny",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "S. Mackie",
+    "equipo": "",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ross MacIver",
+    "equipo": "Falkirk",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Andrew Shinnie",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Hoilett",
+    "equipo": "Swindon Town",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Callum Jones",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Coll Donaldson",
+    "equipo": "Falkirk",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Calvin Miller",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "Joshua Zimmerman",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Conor McMenamin",
+    "equipo": "St. Mirren",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Tom Lowery",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Morris",
+    "equipo": "Luton Town",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Sam Hart",
+    "equipo": "Falkirk",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Smyth",
+    "equipo": "Partick Thistle",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jeremy Bokila",
+    "equipo": "Livingston",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Mohamad Sylla",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "N. Farrugia",
+    "equipo": "Dundee United",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Daniels",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Dylan Tait",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Tunmise Sobowale",
+    "equipo": "Shamrock Rovers",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Lewis Smith",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Liam Henderson",
+    "equipo": "Falkirk",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Charlie Reilly",
+    "equipo": "Dundee",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Imari Samuels",
+    "equipo": "Dundee",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "George Stanger",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Joel Cotterill",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Marcus Dackers",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Leon McCann",
+    "equipo": "Falkirk",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Roland Idowu",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "T. Magnússon",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Hamilton",
+    "equipo": "Dundee",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Brown",
+    "equipo": "Dundee United II",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Pappoe",
+    "equipo": "Dundee United",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Thomson",
+    "equipo": "Ross County",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "G. Campbell",
+    "equipo": "",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Schilte Brown",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Robinson",
+    "equipo": "Boreham Wood",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Robinson",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Polvara",
+    "equipo": "St. Louis City",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. McColm",
+    "equipo": "Motherwell Youth",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Z. Mitchell",
+    "equipo": "Hibernian",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "T. Klidjé",
+    "equipo": "Hibernian",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "F. Taylor",
+    "equipo": "Partick Thistle",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Dijksteel",
+    "equipo": "St. Mirren",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Osong",
+    "equipo": "Fleetwood Town",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ó. Cortés",
+    "equipo": "Huracán",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. Inamura",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Boyd",
+    "equipo": "Aston Villa U21",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Johnston",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Osmand",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "G. Oliver",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Agyeman",
+    "equipo": "St. Johnstone",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "S. Yamada",
+    "equipo": "Celtic",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "T. Samuel-Ogunsuyi",
+    "equipo": "Shrewsbury Town",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Garza",
+    "equipo": "Pumas UNAM",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Wilson",
+    "equipo": "Hearts",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Simpson-Pusey",
+    "equipo": "Köln",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Winter",
+    "equipo": "Raith Rovers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Zac Williams",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Aaron Donnelly",
+    "equipo": "Dundee",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Barney Stewart",
+    "equipo": "Falkirk",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "Keelan Adams",
+    "equipo": "Falkirk",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Louie Marsh",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ben Broggio",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ethan Williams",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "Henry Cartwright",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Connor Allan",
+    "equipo": "Falkirk",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Finn Yeats",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Kyrell Wilson",
+    "equipo": "Falkirk",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Filip Lissah",
+    "equipo": "Falkirk",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Ethan Schilte-Brown",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Findlay Curtis",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "David Watson",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Nicky Cleșcenco",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Michael Schjönning-Larsen",
+    "equipo": "Kilmarnock",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "E. Mooney",
+    "equipo": "Arsenal U21",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Samson Lawal",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Macaulay Tait",
+    "equipo": "Livingston",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Brooklyn Kabongolo",
+    "equipo": "Livingston",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Moore",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "J. Meghoma",
+    "equipo": "Rangers",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "E. Fernandez",
+    "equipo": "Rangers",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "D. Gassama",
+    "equipo": "Rangers",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Youssef Chermiti",
+    "equipo": "Rangers",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "T. Rommens",
+    "equipo": "Rangers",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Murray",
+    "equipo": "Celtic",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jannik Wanner",
+    "equipo": "Livingston",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Babacar Fati",
+    "equipo": "Livingston",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ashley Hay",
+    "equipo": "Dundee",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Tony Yogane",
+    "equipo": "Dundee",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "Joe Bevan",
+    "equipo": "Dundee",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Luke Graham",
+    "equipo": "Dundee",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Joe Westley",
+    "equipo": "Dundee",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "O. Stirton",
+    "equipo": "Airdrieonians",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Nsiala",
+    "equipo": "Westerlo",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ben Brannan",
+    "equipo": "Inverness CT",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Z. McAllister",
+    "equipo": "Motherwell Youth",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Francisco Valenzuela",
+    "equipo": "Dundee",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Agyei",
+    "equipo": "Dundee United",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Z. Sapsford",
+    "equipo": "Dundee United",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "A. Fatah",
+    "equipo": "Dundee United",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "Richard King",
+    "equipo": "St. Mirren",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Jalmaro Calvin",
+    "equipo": "St. Mirren",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Miguel Freckleton",
+    "equipo": "St. Mirren",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Kenan Bilalovic",
+    "equipo": "Aberdeen",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "Mitchel Frame",
+    "equipo": "Aberdeen",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Dylan Lobban",
+    "equipo": "Aberdeen",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Jack Milne",
+    "equipo": "Aberdeen",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Gavin Molloy",
+    "equipo": "Aberdeen",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "B. Arthur",
+    "equipo": "Celtic",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Donovan",
+    "equipo": "Celtic",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Kjartan Már Kjartansson",
+    "equipo": "Aberdeen",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Oxlade-Chamberlain",
+    "equipo": "Celtic",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Jacob Devaney",
+    "equipo": "St. Mirren",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Harding",
+    "equipo": "Dundee United",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Ross",
+    "equipo": "Motherwell",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Priestman",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "E. Bjorgolfsson",
+    "equipo": "Motherwell",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Naamo",
+    "equipo": "Dundee United",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "T. Maswanhise",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "T. Sparrow",
+    "equipo": "Motherwell",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "R. Charles-Cook",
+    "equipo": "Motherwell",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "O. Elding",
+    "equipo": "Hibernian",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Molotnikov",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Megwa",
+    "equipo": "Hibernian",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "K. Andrews",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Altena",
+    "equipo": "Hearts",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Garananga",
+    "equipo": "Hibernian",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Mato",
+    "equipo": "Hearts",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Šuto",
+    "equipo": "Hibernian",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Chaiwa",
+    "equipo": "Hibernian",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Eduardo Ageu",
+    "equipo": "Hearts",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "P. Kabore",
+    "equipo": "Hearts",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "W. O'Hora",
+    "equipo": "Hibernian",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "S. Kerjota",
+    "equipo": "Hearts",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  }
+]

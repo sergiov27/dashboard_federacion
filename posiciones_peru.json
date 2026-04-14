@@ -1,0 +1,2114 @@
+[
+  {
+    "jugador": "F. Girotti",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Ruidíaz",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "J. Salas",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Miguel",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Cantero",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Advíncula",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "A. Santamaría",
+    "equipo": "Universitario",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "H. Fértoli",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Zanelatto",
+    "equipo": "Melgar",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Araujo",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "R. Garcés",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "G. Chávez",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "J. Vélez",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Quevedo",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "P. Reyna",
+    "equipo": "Universitario",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Castillo",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "J. Rivera",
+    "equipo": "Herrera",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "G. Dulanto",
+    "equipo": "Sport Boys",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "F. Gaibor",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Cristiano",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Y. Mena",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "J. González",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "A. Arias",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "C. Neira",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "B. Angulo",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "E. Castillo",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "A. Deneumostier",
+    "equipo": "Melgar",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "Y. Yotún",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Iberico",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "J. Carabalí",
+    "equipo": "Universitario",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "C. López",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Alarcón",
+    "equipo": "Sport Boys",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Y. Zapata",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "Esteban Pavez",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "W. Tandazo",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Y. Vílchez",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Murrugarra",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Camacho",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "K. Sandoval",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "M. Succar",
+    "equipo": "Cienciano",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "J. Alcantar",
+    "equipo": "Melgar",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Ayarza",
+    "equipo": "Los Chankas",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Távara",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Felipe Vizeu",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "C. Gonzáles",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "L. Sosa",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Gustavo Cazonatti",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "C. Cueva",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "W. Riveros",
+    "equipo": "Universitario",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Alzugaray",
+    "equipo": "Universitario",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "S. Gassama",
+    "equipo": "Universitario",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Lagos",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "E. Saba",
+    "equipo": "Sport Boys",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Ascues",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Benites",
+    "equipo": "ADT",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Cabello",
+    "equipo": "ADT",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Bolívar",
+    "equipo": "Cusco",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Lliuya",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "G. Gentile",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Olivares",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Núñez",
+    "equipo": "Cienciano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "S. Arias",
+    "equipo": "Cienciano",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "M. Pérez Guedes",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Guivin",
+    "equipo": "ADT",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Vasquez",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Huamán",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "P. de la Cruz",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Correa",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "V. Cedrón",
+    "equipo": "ADT",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "A. Rodríguez",
+    "equipo": "ADT",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "L. Solís",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Mendieta",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Mora",
+    "equipo": "Sport Boys",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "L. Urruti",
+    "equipo": "Sport Boys",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "E. Ramírez Manrique",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "A. Hohberg",
+    "equipo": "Cienciano",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "M. Amondarain",
+    "equipo": "Cienciano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "G. Barreto",
+    "equipo": "Cienciano",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Y. Gamero",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Bordacahar",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "R. Huaccha",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Canela",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "M. Ruidías",
+    "equipo": "Cusco",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "G. Carabajal",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Colman",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "M. Alaníz",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "P. Fuentes",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "B. Palacios",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "A. Quintana",
+    "equipo": "Los Chankas",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "K. Sánchez",
+    "equipo": "Los Chankas",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Corzo",
+    "equipo": "Universitario",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Carabaño",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Ó. Pinto",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Oncoy",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "H. Arakaki",
+    "equipo": "ADT",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "Gabriel",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "Luis Pérez",
+    "equipo": "ADT",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "P. Lavandeira",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "A. González",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Cuesta",
+    "equipo": "Melgar",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "J. Quintero",
+    "equipo": "Los Chankas",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Callejo",
+    "equipo": "Cusco",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "A. Yovera",
+    "equipo": "Cienciano",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Rodas",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "Arley Rodríguez",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "E. Perleche",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "A. Gordillo",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "K. Ruíz",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "M. Ganoza",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "O. Núñez",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "E. Canales",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "Beto da Silva",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "H. Calcaterra",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Gaona",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "C. Benavente",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Rostaing",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Sen",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "L. Colitto",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "J. Manzaneda",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "C. Diez",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "H. Ancajima",
+    "equipo": "Universitario",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Quiñones",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "G. Larios",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Rojas",
+    "equipo": "ADT",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "M. Llontop",
+    "equipo": "Sport Boys",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Nequecaur",
+    "equipo": "Sport Boys",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "F. Illanes",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Lastre",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "P. Serra",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "C. Carbajal",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "M. de Jesús",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "A. Muñoz",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "D. Dioses",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "L. Garro",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "R. Aguilar",
+    "equipo": "Cienciano",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "J. Portales",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Torrejón",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "H. Benincasa",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "C. Garcés",
+    "equipo": "Cienciano",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "F. Arancibia",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "C. Souza",
+    "equipo": "Cienciano",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Vidales",
+    "equipo": "Melgar",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "O. Takeuchi",
+    "equipo": "Los Chankas",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "B. Guevara",
+    "equipo": "Los Chankas",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Chávez",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "I. Ávila",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. Ángeles",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "C. Vásquez",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "A. Cossío",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Soto",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "O. Valenzuela",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "A. Fuentes",
+    "equipo": "Cusco",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "C. Tizón",
+    "equipo": "",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. García",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Camargo",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "I. Tapia",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "T. Andrade",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Pérez",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Á. Ojeda",
+    "equipo": "ADT",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. Luján",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Perleche",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "C. Mejía",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "A. Salazar",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Becerra",
+    "equipo": "Cienciano",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Rodríguez",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "R. Rojas",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "M. Carranza",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "R. Biojo",
+    "equipo": "ADT",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "R. Díaz",
+    "equipo": "Sport Boys",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "D. Ramírez",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Caro",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "N. Bandiera",
+    "equipo": "Cienciano",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "J. Sinisterra",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "A. Quiroz",
+    "equipo": "Los Chankas",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Villar",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Campodónico",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Herrera",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "J. Parodi",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Guarderas",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "Á. Ampuero",
+    "equipo": "Cusco",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "A. Sánchez",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "K. Paico",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Huerto",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. Orzán",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "R. Tapia",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "J. Betancourt",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "J. Narváez",
+    "equipo": "ADT",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "J. Bauman",
+    "equipo": "ADT",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "W. Guzmán",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "S. Cavero",
+    "equipo": "Cienciano",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "K. Barrios",
+    "equipo": "Los Chankas",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Salcedo",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "M. Carpio",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Tévez",
+    "equipo": "Cusco",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Flores",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "J. Durán",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Toledo",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "P. Liza",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "N. Delgadillo",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "A. Arroyo",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "C. Ramos",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Torres",
+    "equipo": "Los Chankas",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "J. Posito",
+    "equipo": "Los Chankas",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "D. Gonzáles",
+    "equipo": "Los Chankas",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "N. Luján",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "R. Vilca",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "M. Pérez",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Figueroa",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Bernaola",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Flores",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "H. Riojas",
+    "equipo": "Sport Boys",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "N. Da Campo",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Rasmussen",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Barreda",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Defensa Central",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Figuera",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "L. Alburqueque",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Enciso",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "L. Arce",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "M. Martinich",
+    "equipo": "Cienciano",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "F. Torres",
+    "equipo": "Los Chankas",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "C. Pimienta",
+    "equipo": "Los Chankas",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "N. Silva",
+    "equipo": "Cusco",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "J. Gallardo",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "L. Acevedo",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "D. Barreto",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "A. Gutiérrez",
+    "equipo": "ADT",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "N. Chavez",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Granda",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "J. Lojas",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "I. Iriarte",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "X. Moreno",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Ramírez",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Fara",
+    "equipo": "Universitario",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "C. Meza",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "P. Míguez",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "R. Alfani",
+    "equipo": "Sport Boys",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "P. Guerrero",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "J. Ospina",
+    "equipo": "Los Chankas",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Sanguinetti",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Pineau",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "H. Barcos",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "G. Aliaga",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Caballero",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. González",
+    "equipo": "Los Chankas",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "J. Orejuela",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "C. Penilla",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "J. Collazos",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "A. Burlamaqui",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Valoyes",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "H. Rengifo",
+    "equipo": "ADT",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "J. Rodríguez Silva",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "A. Ramos",
+    "equipo": "Melgar",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. López",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "W. Ayoví",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Soto",
+    "equipo": "ADT",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Fabio Agurto",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Adán Henricks",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. Bazán",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Villacorta",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Cabellos",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. García",
+    "equipo": "ADT",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Mazzo Luya",
+    "equipo": "ADT",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Cubas",
+    "equipo": "ADT",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "V. Robaldo",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "N. Rengifo Melgar",
+    "equipo": "ADT",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Barreda",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Fernández",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Luis Gomez",
+    "equipo": "ADT",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "R. Suárez",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Lupu",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "J. Alvino",
+    "equipo": "ADT",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "G. Díaz",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "C. Valladolid",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Muñoz",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "José Villegas",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Jiménez",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Torres",
+    "equipo": "Sport Boys",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "S. Aranda",
+    "equipo": "Sport Boys",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "A. Huaman",
+    "equipo": "Sport Boys",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Falconí",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "P. Magallanes",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "M. Antoni",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "J. Del Castillo",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Coronel",
+    "equipo": "Alianza Atlético",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "R. Chipao",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "N. Amasifuén",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "E. Montenegro",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Dávila",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Extremo Derecho",
+    "Rol": "Flecha"
+  },
+  {
+    "jugador": "C. Ramírez",
+    "equipo": "CD Moquegua",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "Josué Canova",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Serrato",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Cari",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. Gálvez",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Núñez",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "L. Ramos",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Delantero",
+    "Rol": "Delantero Objetivo"
+  },
+  {
+    "jugador": "G. Paredes",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "J. Cantt",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Estrada",
+    "equipo": "Alianza Lima",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "B. Duarte",
+    "equipo": "UTC Cajamarca",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "G. Aguirre",
+    "equipo": "Cienciano",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "Á. Rojas",
+    "equipo": "Cienciano",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "R. Sandoval",
+    "equipo": "Cienciano",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Garrafa",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Graneros",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "A. Robles",
+    "equipo": "Cienciano",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "A. Gómez",
+    "equipo": "Deportivo Garcilaso",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Yabiku Sanchez",
+    "equipo": "Melgar U18",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Gonzales Vigil",
+    "equipo": "Melgar",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "J. Palomino",
+    "equipo": "Los Chankas",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "P. Erustes",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "M. Kaufman",
+    "equipo": "Los Chankas",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "J. D'Arrigo",
+    "equipo": "Melgar",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Lazo",
+    "equipo": "Melgar Res.",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "L. Guzmán",
+    "equipo": "Melgar",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "N. Cabanillas",
+    "equipo": "Melgar",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "C. Inga",
+    "equipo": "Universitario",
+    "posicion_1": "Defensa Central",
+    "Rol": "Distribuidor"
+  },
+  {
+    "jugador": "S. González",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "G. Castillo Lurita",
+    "equipo": "Sporting Cristal U17",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "E. Villar Callupe",
+    "equipo": "Sport Huancayo",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "M. Castro",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Mediapunta"
+  },
+  {
+    "jugador": "F. Lora",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Otoya",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Pósito",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Moretti",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "I. Wisdom",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Box to Box"
+  },
+  {
+    "jugador": "R. Lutiger",
+    "equipo": "Sporting Cristal",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Olivares Uccelli",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "D. Lino",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "G. Alfaro",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "F. Alcedo",
+    "equipo": "Comerciantes Unidos",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "C. Gamarra",
+    "equipo": "Cusco",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "J. Herrera",
+    "equipo": "Cusco",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "N. Ramirez",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Extremo Izquierdo",
+    "Rol": "Desequilibrante"
+  },
+  {
+    "jugador": "M. Peralta",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ancla"
+  },
+  {
+    "jugador": "P. Antón",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "Adriano Espinoza",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "Defensivo"
+  },
+  {
+    "jugador": "M. Juambeltz",
+    "equipo": "Juan Pablo II College",
+    "posicion_1": "Delantero",
+    "Rol": "Falso 9"
+  },
+  {
+    "jugador": "A. Valera",
+    "equipo": "Universitario",
+    "posicion_1": "Delantero",
+    "Rol": "Finalizador"
+  },
+  {
+    "jugador": "A. Polo",
+    "equipo": "Universitario",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Overlapper"
+  },
+  {
+    "jugador": "É. Flores",
+    "equipo": "Universitario",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. Concha",
+    "equipo": "Universitario",
+    "posicion_1": "Mediocentro",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "J. De Santis",
+    "equipo": "Melgar",
+    "posicion_1": "Delantero",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. de la Cruz",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "A. Flores",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Lateral Izquierdo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "H. Timaná",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "No definido"
+  },
+  {
+    "jugador": "S. González",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "A. Vásquez",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Creador"
+  },
+  {
+    "jugador": "E. Franco",
+    "equipo": "Atlético Grau",
+    "posicion_1": "Mediocentro Defensivo",
+    "Rol": "Constructor"
+  },
+  {
+    "jugador": "M. Arrasco",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Mediocentro Ofensivo",
+    "Rol": "Organizador"
+  },
+  {
+    "jugador": "M. Almirón",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  },
+  {
+    "jugador": "Carlos Gómez",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Lateral Derecho",
+    "Rol": "Progresor"
+  },
+  {
+    "jugador": "A. Rodas",
+    "equipo": "FC Cajamarca",
+    "posicion_1": "Defensa Central",
+    "Rol": "Ofensivo"
+  }
+]
