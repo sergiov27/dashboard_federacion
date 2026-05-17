@@ -21,8 +21,55 @@ document.addEventListener("DOMContentLoaded", () => {
 	const listaSimilares = document.getElementById("listaSimilares");
 	const btnExportarFicha = document.getElementById("btnExportarFicha");
 	const bloqueExportableFicha = document.getElementById("bloqueExportableFicha");
+	const radarCanvas = document.getElementById("radarChartFicha");
+	let radarChartFicha = null;
 
-const metricasOfensiva = [
+	const radarPorPosicion = {
+	defensa_central: [
+		{ nombre: "Padj Entradas", clave: "percentile_padj_entrada_90" },
+		{ nombre: "Padj Interceptaciones", clave: "percentile_padj_interceptacion_90" },
+		{ nombre: "Duelos Aéreos", clave: "percentile_duelos_aereos_ganados_90" },
+		{ nombre: "Acciones Defensivas", clave: "percentile_acciones_defensivas_realizadas_90" },
+		{ nombre: "Duelos Defensivos", clave: "percentile_duelos_defensivos_ganados_90" },
+		{ nombre: "Pases Progresivos", clave: "percentile_pases_progresivos_precisos_90" },
+		{ nombre: "Pases Largos", clave: "percentile_pases_largos_precisos_90" }
+	],
+
+	lateral: [
+		{ nombre: "Regates Exitosos", clave: "percentile_regates_exitosos_90" },
+		{ nombre: "Centros", clave: "percentile_centros_90" },
+		{ nombre: "Duelos Defensivos", clave: "percentile_duelos_defensivos_ganados_90" },
+		{ nombre: "Acciones Defensivas", clave: "percentile_acciones_defensivas_realizadas_90" },
+		{ nombre: "Pases Progresivos", clave: "percentile_pases_progresivos_precisos_90" },
+		{ nombre: "Conducciones", clave: "percentile_carreras_en_progresion_90" }
+	],
+
+	mediocentro: [
+		{ nombre: "Pases Progresivos", clave: "percentile_pases_progresivos_precisos_90" },
+		{ nombre: "Pases Largos", clave: "percentile_pases_largos_precisos_90" },
+		{ nombre: "Acciones Ofensivas", clave: "percentile_acciones_de_ataque_exitosas_90" },
+		{ nombre: "Duelos Ofensivos", clave: "percentile_duelos_atacantes_ganados_90" },
+		{ nombre: "Intercepciones", clave: "percentile_padj_interceptacion_90" }
+	],
+
+	extremo: [
+		{ nombre: "Regates Exitosos", clave: "percentile_regates_exitosos_90" },
+		{ nombre: "xG", clave: "percentile_x_g_90" },
+		{ nombre: "Remates", clave: "percentile_remates_90" },
+		{ nombre: "Acciones Ofensivas", clave: "percentile_acciones_de_ataque_exitosas_90" },
+		{ nombre: "Desmarques", clave: "percentile_desmarques_90" }
+	],
+
+	delantero: [
+		{ nombre: "xG", clave: "percentile_x_g_90" },
+		{ nombre: "Goles s/p", clave: "percentile_goles_excepto_los_penaltis_90" },
+		{ nombre: "Remates", clave: "percentile_remates_90" },
+		{ nombre: "Duelos Aéreos", clave: "percentile_duelos_aereos_ganados_90" },
+		{ nombre: "Toques en área", clave: "percentile_toques_en_el_area_de_penalti_90" }
+	]
+};
+
+	const metricasOfensiva = [
 	{ nombre: "xG p90", clave: "percentile_x_g_90" },
 	{ nombre: "Remates p90", clave: "percentile_remates_90" },
 	{ nombre: "Toques en el área p90", clave: "percentile_toques_en_el_area_de_penalti_90" },
@@ -35,7 +82,7 @@ const metricasOfensiva = [
 	{ nombre: "Asistencias p90", claves: ["percentile_asist_remate_90", "percentile_asistencias_90"] }
 ];
 
-const metricasCreacion = [
+	const metricasCreacion = [
 	{ nombre: "Construcción de Juego", claves: ["percentile_second_assists_90", "percentile_third_assists_90"] },
 	{ nombre: "Jugadas Claves p90", clave: "percentile_jugadas_claves_90" },
 	{ nombre: "Centros p90", clave: "percentile_centros_90" },
@@ -46,21 +93,21 @@ const metricasCreacion = [
 	{ nombre: "Pases en Profundidad p90", clave: "percentile_pases_en_profundidad_precisos_90" }
 ];
 
-const metricasFinalizacion = metricasOfensiva.filter(m => [
+	const metricasFinalizacion = metricasOfensiva.filter(m => [
 	"xG p90",
 	"Remates p90",
 	"Toques en el área p90",
 	"Goles excepto penales p90"
 ].includes(m.nombre));
 
-const metricasProgresion = metricasCreacion.filter(m => [
+	const metricasProgresion = metricasCreacion.filter(m => [
 	"Pases Progresivos p90",
 	"Conducciones Progresivas",
 	"Pases Largos p90",
 	"Pases en Profundidad p90"
 ].includes(m.nombre));
 
-const metricasDefensiva = [
+	const metricasDefensiva = [
 
 	{ nombre: "Padj entradas p90", clave: "percentile_padj_entrada_90" },
 	{ nombre: "Padj interceptaciones p90", clave: "percentile_padj_interceptacion_90" },
@@ -531,32 +578,12 @@ const metricasDefensiva = [
 
 		const club = obtenerClub(jugador);
 
-		if (liga === "escocia") {
-			const archivo = escudosEscociaPorClub[club];
-			if (!archivo) return [];
-
-			return [
-				`Imagenes/Escudos/escocia/${archivo}`,
-				`Imagenes/Escudos/${archivo}`
-			];
-		}
-
 		if (liga === "peru") {
 			const archivo = escudosPeruPorClub[club];
 			if (!archivo) return [];
 
 			return [
 				`Imagenes/Escudos/peru/${archivo}`,
-				`Imagenes/Escudos/${archivo}`
-			];
-		}
-
-		if (liga === "chile") {
-			const archivo = escudosChilePorClub[club];
-			if (!archivo) return [];
-
-			return [
-				`Imagenes/Escudos/chile/${archivo}`,
 				`Imagenes/Escudos/${archivo}`
 			];
 		}
@@ -684,6 +711,88 @@ const metricasDefensiva = [
 	contenedor.appendChild(tabla);
 }
 
+function obtenerMetricasRadarParaPosicion(posicion) {
+	const categoria = mapearPosicionACategoria(posicion);
+	const lista = radarPorPosicion[categoria];
+	if (Array.isArray(lista) && lista.length) return lista;
+	// fallback: usar mediocentro o la primera entrada disponible
+	if (Array.isArray(radarPorPosicion.mediocentro) && radarPorPosicion.mediocentro.length) return radarPorPosicion.mediocentro;
+	const primeras = Object.values(radarPorPosicion).find(v => Array.isArray(v) && v.length);
+	return primeras || [];
+}
+
+function crearRadarFicha() {
+	if (!radarCanvas || !window.Chart) return;
+	if (window.ChartDataLabels) Chart.register(ChartDataLabels);
+
+	radarChartFicha = new Chart(radarCanvas, {
+		type: "radar",
+		data: {
+			labels: [],
+			datasets: []
+		},
+		options: {
+			responsive: true,
+			scales: {
+				r: {
+					min: 0,
+					max: 100,
+					ticks: { display: false },
+					pointLabels: { color: "white", font: { size: 12 } },
+					grid: { color: "#334155" }
+				}
+			},
+			plugins: {
+				legend: { display: false },
+				datalabels: {
+					formatter: value => Math.round(value),
+					color: "#ffffff",
+					font: { weight: "bold", size: 10 },
+					backgroundColor: "rgba(16,185,129,0.9)",
+					borderRadius: 50,
+					padding: 6
+				}
+			}
+		}
+	});
+}
+
+function actualizarRadarFicha(jugadorPercentiles) {
+	if (!radarChartFicha) return;
+
+	const posicion = obtenerPosicion(jugadorPercentiles) || "";
+	const metricas = obtenerMetricasRadarParaPosicion(posicion);
+
+	if (!metricas.length) {
+		// limpiar
+		radarChartFicha.data.labels = [];
+		radarChartFicha.data.datasets = [];
+		radarChartFicha.update();
+		return;
+	}
+
+	const valores = metricas.map(m => {
+		const valor = Number(jugadorPercentiles?.[m.clave]);
+		return Number.isFinite(valor) ? Math.max(0, Math.min(100, valor)) : 0;
+	});
+
+	radarChartFicha.data.labels = metricas.map(m => m.nombre);
+	radarChartFicha.data.datasets = [
+		{
+			label: jugadorPercentiles?.jugador || "Jugador",
+			data: valores,
+			borderColor: "#10b981",
+			backgroundColor: "rgba(16,185,129,0.25)",
+			pointBackgroundColor: "#10b981",
+			pointBorderColor: "#0f172a",
+			borderWidth: 2,
+			fill: true
+		}
+	];
+
+	radarChartFicha.update();
+}
+
 function actualizarOfensiva(jugadorPercentiles) {
 
 	actualizarBloqueMetricas(
@@ -792,6 +901,7 @@ function actualizarEscudo(liga, jugador) {
 		actualizarOfensiva(jugadorPercentiles || jugador);
 		actualizarCreacion(jugadorPercentiles || jugador);
 		actualizarDefensiva(jugadorPercentiles || jugador);
+		actualizarRadarFicha(jugadorPercentiles || jugador);
 	}
 
 	function poblarSelectorJugadores() {
@@ -918,6 +1028,8 @@ function actualizarEscudo(liga, jugador) {
 
 	btnExportarFicha?.addEventListener("click", exportarFichaPDF);
 
+	crearRadarFicha();
 	cargarJugadores();
 
 });
+
