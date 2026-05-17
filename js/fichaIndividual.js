@@ -15,54 +15,61 @@ document.addEventListener("DOMContentLoaded", () => {
 	const minutosJugador = document.querySelector(".minutosJugador");
 	const valorMercadoValor = document.querySelector(".valorMercadoValor");
 	const scoreFinalValor = document.querySelector(".scoreFinalValor");
-	const finalizacionMetricas = document.querySelector(".finalizacionMetricas");
 	const ofensivaMetricas = document.querySelector(".ofensivaMetricas");
 	const creacionMetricas = document.querySelector(".creacionMetricas");
-	const progresionMetricas = document.querySelector(".progresionMetricas");
 	const defensivaMetricas = document.querySelector(".defensivaMetricas");
 	const listaSimilares = document.getElementById("listaSimilares");
 	const btnExportarFicha = document.getElementById("btnExportarFicha");
 	const bloqueExportableFicha = document.getElementById("bloqueExportableFicha");
 
-	const metricasFinalizacion = [
-		{ nombre: "xG p90", clave: "percentile_x_g_90" },
-		{ nombre: "Remates p90", clave: "percentile_remates_90" },
-		{ nombre: "Toques en el área p90", clave: "percentile_toques_en_el_area_de_penalti_90" },
-		{ nombre: "Goles excepto penales p90", clave: "percentile_goles_excepto_los_penaltis_90" },
-		{ nombre: "Duelos Aereos p90", clave: "percentile_duelos_aereos_ganados_90" }
-	];
-
-	const metricasOfensiva = [
-		{ nombre: "Regates exitosos p90", clave: "percentile_regates_exitosos_90" },
-		{ nombre: "Duelos ofensivos p90", clave: "percentile_duelos_atacantes_ganados_90" },
-		{ nombre: "Acciones ofensivas p90", clave: "percentile_acciones_de_ataque_exitosas_90" },
-		{ nombre: "Desmarques p90", clave: "percentile_desmarques_90" }
-	];
-
-	const metricasCreacion = [
+const metricasOfensiva = [
+	{ nombre: "xG p90", clave: "percentile_x_g_90" },
+	{ nombre: "Remates p90", clave: "percentile_remates_90" },
+	{ nombre: "Toques en el área p90", clave: "percentile_toques_en_el_area_de_penalti_90" },
+	{ nombre: "Goles excepto penales p90", clave: "percentile_goles_excepto_los_penaltis_90" },
+	{ nombre: "Regates exitosos p90", clave: "percentile_regates_exitosos_90" },
+	{ nombre: "Duelos ofensivos p90", clave: "percentile_duelos_atacantes_ganados_90" },
+	{ nombre: "Acciones ofensivas p90", clave: "percentile_acciones_de_ataque_exitosas_90" },
+	{ nombre: "Desmarques p90", clave: "percentile_desmarques_90" },
 		{ nombre: "xA p90", clave: "percentile_x_a_90" },
-		{ nombre: "Asistencias p90", claves: ["percentile_asist_remate_90", "percentile_asistencias_90"] },
-		{ nombre: "Participación en Construcción", claves: ["percentile_second_assists_90", "percentile_third_assists_90"] },
-		{ nombre: "Jugadas Claves p90", clave: "percentile_jugadas_claves_90" },
-		{ nombre: "Centros p90", clave: "percentile_centros_90" },
-		{ nombre: "Pases ultimo tercio p90", clave: "percentile_pases_ut_precisos_90" }
-	];
+	{ nombre: "Asistencias p90", claves: ["percentile_asist_remate_90", "percentile_asistencias_90"] }
+];
 
-	const metricasProgresion = [
-		{ nombre: "Pases Progresivos p90", clave: "percentile_pases_progresivos_precisos_90" },
-		{ nombre: "Conducciones Progresivas", clave: "percentile_carreras_en_progresion_90" },
-		{ nombre: "Pases Largos p90", clave: "percentile_pases_largos_precisos_90" },
-		{ nombre: "Pases en Profundidad p90", clave: "percentile_pases_en_profundidad_precisos_90" }
-	];
+const metricasCreacion = [
+	{ nombre: "Construcción de Juego", claves: ["percentile_second_assists_90", "percentile_third_assists_90"] },
+	{ nombre: "Jugadas Claves p90", clave: "percentile_jugadas_claves_90" },
+	{ nombre: "Centros p90", clave: "percentile_centros_90" },
+	{ nombre: "Pases ultimo tercio p90", clave: "percentile_pases_ut_precisos_90" },
+	{ nombre: "Pases Progresivos p90", clave: "percentile_pases_progresivos_precisos_90" },
+	{ nombre: "Conducciones Progresivas", clave: "percentile_carreras_en_progresion_90" },
+	{ nombre: "Pases Largos p90", clave: "percentile_pases_largos_precisos_90" },
+	{ nombre: "Pases en Profundidad p90", clave: "percentile_pases_en_profundidad_precisos_90" }
+];
 
-	const metricasDefensiva = [
-		{ nombre: "Padj entradas p90", clave: "percentile_padj_entrada_90" },
-		{ nombre: "Padj interceptaciones p90", clave: "percentile_padj_interceptacion_90" },
-		{ nombre: "Duelos Aereos p90", clave: "percentile_duelos_aereos_ganados_90" },
-		{ nombre: "Acciones Defensivas realizadas p90", clave: "percentile_acciones_defensivas_realizadas_90" },
-		{ nombre: "Tiros bloqueados p90", clave: "percentile_tiros_interceptados_90" },
-		{ nombre: "Duelos Defensivos p90", clave: "percentile_duelos_defensivos_ganados_90" }
-	];
+const metricasFinalizacion = metricasOfensiva.filter(m => [
+	"xG p90",
+	"Remates p90",
+	"Toques en el área p90",
+	"Goles excepto penales p90"
+].includes(m.nombre));
+
+const metricasProgresion = metricasCreacion.filter(m => [
+	"Pases Progresivos p90",
+	"Conducciones Progresivas",
+	"Pases Largos p90",
+	"Pases en Profundidad p90"
+].includes(m.nombre));
+
+const metricasDefensiva = [
+
+	{ nombre: "Padj entradas p90", clave: "percentile_padj_entrada_90" },
+	{ nombre: "Padj interceptaciones p90", clave: "percentile_padj_interceptacion_90" },
+	{ nombre: "Duelos Aereos p90", clave: "percentile_duelos_aereos_ganados_90" },
+	{ nombre: "Acciones Defensivas realizadas p90", clave: "percentile_acciones_defensivas_realizadas_90" },
+	{ nombre: "Tiros bloqueados p90", clave: "percentile_tiros_interceptados_90" },
+	{ nombre: "Duelos Defensivos p90", clave: "percentile_duelos_defensivos_ganados_90" }
+
+];
 
 	// Pesos de métricas dentro de cada bloque
 	const pesosMetricas = {
@@ -78,7 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
 			"Asistencias p90": 0.30,
 			"Jugadas Claves p90": 0.20,
 			"Pases ultimo tercio p90": 0.15,
-			"Participación en Construcción": 0.10
+			"Construcción de Juego": 0.10
 		},
 		Ofensiva: {
 			"Regates exitosos p90": 0.30,
@@ -105,25 +112,21 @@ document.addEventListener("DOMContentLoaded", () => {
 	// Ponderaciones de bloques por posición
 	const ponderacionesPorPosicion = {
 		"defensa_central": {
-			Defensivo: 0.50,
-			Progresion: 0.20,
-			Creacion: 0.15,
-			Finalizacion: 0.10,
-			Ofensiva: 0.05
+			Defensivo: 0.60,
+			Progresion: 0.25,
+			Creacion: 0.15
 		},
 		"lateral": {
-			Defensivo: 0.40,
+			Defensivo: 0.45,
 			Progresion: 0.25,
 			Creacion: 0.15,
-			Ofensiva: 0.15,
-			Finalizacion: 0.05
+			Ofensiva: 0.15
 		},
 		"mediocentro_defensivo": {
-			Defensivo: 0.35,
-			Progresion: 0.25,
+			Defensivo: 0.40,
+			Progresion: 0.30,
 			Creacion: 0.20,
-			Ofensiva: 0.10,
-			Finalizacion: 0.10
+			Ofensiva: 0.10
 		},
 		"mediocentro": {
 			Progresion: 0.25,
@@ -136,22 +139,19 @@ document.addEventListener("DOMContentLoaded", () => {
 			Creacion: 0.35,
 			Progresion: 0.20,
 			Finalizacion: 0.20,
-			Ofensiva: 0.20,
-			Defensivo: 0.05
+			Ofensiva: 0.25
 		},
 		"extremo": {
-			Ofensiva: 0.35,
+			Ofensiva: 0.40,
 			Creacion: 0.25,
 			Finalizacion: 0.20,
-			Progresion: 0.15,
-			Defensivo: 0.05
+			Progresion: 0.15
 		},
 		"delantero": {
-			Finalizacion: 0.40,
+			Finalizacion: 0.45,
 			Ofensiva: 0.30,
 			Creacion: 0.15,
-			Progresion: 0.10,
-			Defensivo: 0.05
+			Progresion: 0.10
 		}
 	};
 
@@ -232,21 +232,6 @@ document.addEventListener("DOMContentLoaded", () => {
 		"Czech Republic": "cz"
 	};
 
-	const escudosEscociaPorClub = {
-		Aberdeen: "aberdeen.png",
-		Celtic: "celtic.png",
-		Dundee: "dundee.png",
-		"Dundee United": "dundee_united.png",
-		Falkirk: "falkirk.png",
-		Hearts: "hearts.png",
-		Hibernian: "hibernian.png",
-		Kilmarnock: "kilmarnock.png",
-		Livingston: "livingston.png",
-		Motherwell: "motherwell.png",
-		Rangers: "rangers.png",
-		"St. Mirren": "st_mirren.png"
-	};
-
 	const escudosPeruPorClub = {
 		ADT: "adt.png",
 		"Alianza Atletico": "alianza_atletico.PNG",
@@ -270,30 +255,6 @@ document.addEventListener("DOMContentLoaded", () => {
 		"Sporting Cristal": "sporting_cristal.png",
 		Universitario: "universitario.png",
 		"UTC Cajamarca": "utc.png"
-	};
-
-	const escudosChilePorClub = {
-		"Ñublense": "nublense.png",
-		"Nublense": "nublense.png",
-		"Audax Italiano": "audax.png",
-		"Cobresal": "cobresal.png",
-		"Colo Colo": "colo_colo.png",
-		"Concepción": "dep_concepcion.png",
-		"ConcepciÃ³n": "dep_concepcion.png",
-		"Coquimbo Unido": "coquimbo.png",
-		"Deportes Limache": "limache.png",
-		"Everton": "everton.png",
-		"Huachipato": "huachipato.png",
-		"La Serena": "serena.png",
-		"O'Higgins": "ohiggins.png",
-		"Palestino": "palestino.png",
-		"Unión La Calera": "la_calera.png",
-		"UniÃ³n La Calera": "la_calera.png",
-		"Univ. Concepción": "u_conepcion.png",
-		"Univ. ConcepciÃ³n": "u_conepcion.png",
-		"Universidad Católica": "u_catolica.png",
-		"Universidad Católica": "u_catolica.png",
-		"Universidad de Chile": "u_chile.png"
 	};
 
 	const imagenPosicionEl = document.getElementById("imagenPosicion");
@@ -682,79 +643,78 @@ document.addEventListener("DOMContentLoaded", () => {
 	}
 
 	function actualizarBloqueMetricas(contenedor, metricas, jugadorPercentiles) {
-		if (!contenedor) return;
+	if (!contenedor) return;
 
-		contenedor.innerHTML = "";
+	contenedor.innerHTML = "";
 
-		function obtenerPercentilMetrica(metrica, jugador) {
-			if (Array.isArray(metrica.claves) && metrica.claves.length > 0) {
-				const valores = metrica.claves
-					.map(clave => normalizarPercentil(jugador?.[clave]))
-					.filter(valor => valor !== null);
+	const tabla = document.createElement("table");
+	tabla.className = "tablaMetricasFM";
 
-				if (!valores.length) return null;
-				const promedio = valores.reduce((acc, valor) => acc + valor, 0) / valores.length;
-				return normalizarPercentil(promedio);
-			}
+	const tbody = document.createElement("tbody");
 
-			return normalizarPercentil(jugador?.[metrica.clave]);
+	metricas.forEach(metrica => {
+
+		const percentil = calcularPercentilMetrica(metrica, jugadorPercentiles);
+
+		const fila = document.createElement("tr");
+		fila.className = "filaMetricaFM";
+
+		const celdaNombre = document.createElement("td");
+		celdaNombre.className = "metricaNombreFM";
+		celdaNombre.textContent = metrica.nombre;
+
+		const celdaValor = document.createElement("td");
+		celdaValor.className = "metricaValorFM";
+
+		if (percentil === null) {
+			celdaValor.textContent = "N/D";
+			celdaValor.style.backgroundColor = "#2b2b2b";
+		} else {
+			celdaValor.textContent = Math.round(percentil);
+			celdaValor.style.backgroundColor = obtenerColorBarraPercentil(percentil);
 		}
 
-		metricas.forEach(metrica => {
-			const percentil = obtenerPercentilMetrica(metrica, jugadorPercentiles);
-			const item = document.createElement("div");
-			item.className = "finalizacionItem";
+		fila.appendChild(celdaNombre);
+		fila.appendChild(celdaValor);
 
-			const cabecera = document.createElement("div");
-			cabecera.className = "finalizacionCabecera";
+		tbody.appendChild(fila);
+	});
 
-			const nombre = document.createElement("span");
-			nombre.className = "finalizacionNombre";
-			nombre.textContent = metrica.nombre;
+	tabla.appendChild(tbody);
+	contenedor.appendChild(tabla);
+}
 
-			const valor = document.createElement("span");
-			valor.className = "finalizacionValor";
-			valor.textContent = percentil === null ? "N/D" : `${Math.round(percentil)}`;
+function actualizarOfensiva(jugadorPercentiles) {
 
-			const track = document.createElement("div");
-			track.className = "barraTrack";
+	actualizarBloqueMetricas(
+		ofensivaMetricas,
+		metricasOfensiva,
+		jugadorPercentiles
+	);
+}
 
-			const fill = document.createElement("div");
-			fill.className = "barraFill";
-			fill.style.width = percentil === null ? "0%" : `${percentil}%`;
-			fill.style.backgroundColor = obtenerColorBarraPercentil(percentil);
+function actualizarCreacion(jugadorPercentiles) {
 
-			track.appendChild(fill);
-			cabecera.appendChild(nombre);
-			cabecera.appendChild(valor);
-			item.appendChild(cabecera);
-			item.appendChild(track);
+	actualizarBloqueMetricas(
+		creacionMetricas,
+		metricasCreacion,
+		jugadorPercentiles
+	);
+}
 
-			contenedor.appendChild(item);
-		});
-	}
+function actualizarDefensiva(jugadorPercentiles) {
+	actualizarBloqueMetricas(defensivaMetricas, metricasDefensiva, jugadorPercentiles);
+}
 
-	function actualizarFinalizacion(jugadorPercentiles) {
-		actualizarBloqueMetricas(finalizacionMetricas, metricasFinalizacion, jugadorPercentiles);
-	}
+function actualizarFinalizacion(jugadorPercentiles) {
+	// No se usa en la vista actual, pero se define para evitar errores si se invoca en rutas de código sin jugador.
+}
 
-	function actualizarOfensiva(jugadorPercentiles) {
-		actualizarBloqueMetricas(ofensivaMetricas, metricasOfensiva, jugadorPercentiles);
-	}
+function actualizarProgresion(jugadorPercentiles) {
+	// No se usa en la vista actual, pero se define para evitar errores si se invoca en rutas de código sin jugador.
+}
 
-	function actualizarCreacion(jugadorPercentiles) {
-		actualizarBloqueMetricas(creacionMetricas, metricasCreacion, jugadorPercentiles);
-	}
-
-	function actualizarProgresion(jugadorPercentiles) {
-		actualizarBloqueMetricas(progresionMetricas, metricasProgresion, jugadorPercentiles);
-	}
-
-	function actualizarDefensiva(jugadorPercentiles) {
-		actualizarBloqueMetricas(defensivaMetricas, metricasDefensiva, jugadorPercentiles);
-	}
-
-	function actualizarEscudo(liga, jugador) {
+function actualizarEscudo(liga, jugador) {
 		if (!escudoClub) return;
 
 		const urlEscudo = obtenerEscudoUrl(liga, jugador);
@@ -829,10 +789,8 @@ document.addEventListener("DOMContentLoaded", () => {
 		if (scoreFinalValor) scoreFinalValor.textContent = (calcularScoreFinal(jugadorPercentiles || jugador, obtenerPosicion(jugador)) / 10).toFixed(1);
 		actualizarImagenPosicion(jugador);
 		actualizarSimilares(nombre, jugador);
-		actualizarFinalizacion(jugadorPercentiles || jugador);
 		actualizarOfensiva(jugadorPercentiles || jugador);
 		actualizarCreacion(jugadorPercentiles || jugador);
-		actualizarProgresion(jugadorPercentiles || jugador);
 		actualizarDefensiva(jugadorPercentiles || jugador);
 	}
 
