@@ -3,7 +3,7 @@
 
 <head>
 <meta charset="UTF-8">
-<title>SCOUT PRO - SLAB</title>
+<title>Ficha de Jugador</title>
 
 <link rel="stylesheet" href="css/styles.css">
 <link href="https://fonts.gstatic.com/s/inter/v20/UcC73FwrK3iLTeHuS_nVMrMxCp50SjIa2JL7SUc.woff2" rel="stylesheet">
@@ -29,7 +29,7 @@
 
 <div class="logo">
 <img src="logo_nobg.png" alt="Logo" class="logo-img">
-SCOUT PRO - SLAB
+FICHA INDIVIDUAL
 </div>
 
 <nav>
@@ -85,10 +85,6 @@ SCOUT PRO - SLAB
             </div>
         </div>
     </div>
-    <div class="valorMercadoJugador">
-        <div class="valorMercadoLabel">Valor de Mercado</div>
-        <div class="valorMercadoValor">N/D</div>
-    </div>
     <div class="scoreFinalJugador">
         <div class="scoreFinalLabel">SCORE JUGADOR</div>
         <div class="scoreFinalValor">N/D</div>
@@ -102,37 +98,25 @@ SCOUT PRO - SLAB
             <div class="similares-titulo">Top 10 Similares</div>
             <ul id="listaSimilares" class="lista-similares"></ul>
         </div>
-    </div>
-    <div class="cajaPercentiles cajaPercentilesDerecha">
-        <div class="bloquesMetricas">
-            <div class="columnaMetricas">
-                <div class="bloqueFinalizacion">
-                    <div class="bloqueFinalizacionTitulo">Finalización</div>
-                    <div class="finalizacionMetricas"></div>
-                </div>
-                <div class="bloqueCreacion">
-                    <div class="bloqueCreacionTitulo">Creación</div>
-                    <div class="creacionMetricas"></div>
-                </div>
-                <p class="nota-creacion">*Asistencias p90 incluye asistencias de remates que no terminan en gol.</p>
-                <p class="nota-creacion">**Part. en Construcción: Incluye 2° y 3° Asistencia</p>
                 <div class="bloque-exportar-ficha">
                     <button id="btnExportarFicha" class="btn-exportar-ficha" type="button">Exportar PDF</button>
                 </div>
+    </div>
+    <div class="cajaPercentiles cajaPercentilesDerecha">
+        <div class="bloquesMetricas">
+            <div class="bloqueOfensiva">
+                <div class="bloqueOfensivaTitulo">Ofensivo</div>
+                <div class="ofensivaMetricas"></div>
+                <p class="nota-creacion">*Asistencias p90 incluye asistencias de remates que no terminan en gol.</p>
             </div>
-            <div class="columnaMetricas">
-                <div class="bloqueOfensiva">
-                    <div class="bloqueOfensivaTitulo">Ofensiva</div>
-                    <div class="ofensivaMetricas"></div>
-                </div>
-                <div class="bloqueProgresion">
-                    <div class="bloqueProgresionTitulo">Progresión</div>
-                    <div class="progresionMetricas"></div>
-                </div>
-                <div class="bloqueDefensivo">
-                    <div class="bloqueDefensivoTitulo">Defensivo</div>
-                    <div class="defensivaMetricas"></div>
-                </div>
+            <div class="bloqueCreacion">
+                <div class="bloqueCreacionTitulo">Creación</div>
+                <div class="creacionMetricas"></div>
+                <p class="nota-creacion">**Construcción de Juego: Considera 2° y 3° Asistencia</p>
+            </div>
+            <div class="bloqueDefensivo">
+                <div class="bloqueDefensivoTitulo">Defensivo</div>
+                <div class="defensivaMetricas"></div>
             </div>
         </div>
     </div>
