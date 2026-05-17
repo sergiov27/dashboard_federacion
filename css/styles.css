@@ -870,7 +870,7 @@ color:white;
     border:1px solid #334155;
     border-radius:8px;
     min-height:260px;
-    padding:16px;
+    padding:8px;
 }
 
 .cajaPercentilesIzquierda{
@@ -949,14 +949,53 @@ color:white;
 }
 
 .cajaPercentilesDerecha{
-    width:75%;
+    width:48%;
     background-color:transparent;
     border:none;
 }
 
+.cajaRadar{
+    width:32%;
+    background-color: transparent; /* o directamente eliminar la propiedad */
+    border: none; /* quitamos el borde completo */
+    position: relative;
+
+    padding: 8px 8px 8px 16px; /* más espacio a la izquierda para la línea */
+    box-sizing: border-box;
+
+    display:flex;
+    flex-direction:column;
+    gap:12px;
+    min-height:250px;
+}
+
+.cajaRadar::before{
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: linear-gradient(to bottom, transparent, #334155, transparent);
+}
+
+.cajaRadar .titulo-radar{
+    font-size:18px;
+    color:#ffffff;
+    font-weight:700;
+    text-align:center;
+    padding-bottom:10px;
+    position: relative;
+}
+
+.cajaRadar canvas{
+    width:100%;
+    height:auto;
+}
+
 .bloquesMetricas{
     display: flex;
-    gap: 20px;
+    gap: 16px;
     align-items: flex-start;
     width: 100%;
     flex-wrap: wrap;
@@ -994,6 +1033,20 @@ color:white;
     font-weight:700;
     margin-bottom:14px;
     text-align:center;
+
+    position: relative;
+    padding-bottom:10px;
+}
+
+.bloqueOfensivaTitulo::after{
+    content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    height: 1px;
+    background: #61c2ab;
+    opacity: 0.8;
 }
 
 .bloqueCreacionTitulo{
@@ -1002,7 +1055,22 @@ color:white;
     font-weight:700;
     margin-bottom:14px;
     text-align:center;
+
+    position: relative;
+    padding-bottom:10px;
 }
+
+.bloqueCreacionTitulo::after{
+    content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    height: 1px;
+    background: #61c2ab;
+    opacity: 0.8;
+}
+
 
 .nota-creacion{
     margin:6px 4px 0;
@@ -1018,6 +1086,20 @@ color:white;
     font-weight:700;
     margin-bottom:14px;
     text-align:center;
+
+    position: relative;
+    padding-bottom:10px;
+}
+
+.bloqueDefensivoTitulo::after{
+    content: "";
+    position: absolute;
+    left: 25%;
+    right: 25%;
+    bottom: 0;
+    height: 1px;
+    background: #61c2ab;
+    opacity: 0.8;
 }
 
 .finalizacionMetricas{
@@ -1383,7 +1465,7 @@ color:white;
     }
 }
 
-<!---- STATS ESTILO FOOTBALL MANAGER ---->
+<!---- STATS ESTILO FM ---->
 
 .tablaMetricasFM{
     width: 100%;
