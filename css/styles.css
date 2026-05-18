@@ -1027,48 +1027,16 @@ color:white;
     gap:16px;
 }
 
-.bloqueOfensivaTitulo{
-    color:#ffffff;
-    font-size:20px;
-    font-weight:700;
-    margin-bottom:14px;
-    text-align:center;
-
-    position: relative;
-    padding-bottom:10px;
-}
-
-.bloqueOfensivaTitulo::after{
-    content: "";
-    position: absolute;
-    left: 25%;
-    right: 25%;
-    bottom: 0;
-    height: 1px;
-    background: #61c2ab;
-    opacity: 0.8;
-}
-
-.bloqueCreacionTitulo{
-    color:#ffffff;
-    font-size:20px;
-    font-weight:700;
-    margin-bottom:14px;
-    text-align:center;
-
-    position: relative;
-    padding-bottom:10px;
-}
-
-.bloqueCreacionTitulo::after{
-    content: "";
-    position: absolute;
-    left: 25%;
-    right: 25%;
-    bottom: 0;
-    height: 1px;
-    background: #61c2ab;
-    opacity: 0.8;
+.bloqueOfensivaTitulo,
+.bloqueCreacionTitulo,
+.bloqueDefensivoTitulo {
+    color: #ffffff;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 12px;
+    padding-bottom: 8px;
+    border-bottom: 1px solid rgba(97, 194, 171, 0.4);
+    text-align: center;
 }
 
 
@@ -1080,98 +1048,31 @@ color:white;
     font-style:italic;
 }
 
-.bloqueDefensivoTitulo{
-    color:#ffffff;
-    font-size:20px;
-    font-weight:700;
-    margin-bottom:14px;
-    text-align:center;
-
-    position: relative;
-    padding-bottom:10px;
+.ofensivaMetricas,
+.creacionMetricas,
+.defensivaMetricas {
+	display: flex;
+	flex-direction: column;
+	gap: 20px;
+	width: 100%;
 }
 
-.bloqueDefensivoTitulo::after{
-    content: "";
-    position: absolute;
-    left: 25%;
-    right: 25%;
-    bottom: 0;
-    height: 1px;
-    background: #61c2ab;
-    opacity: 0.8;
+.fmSubBloqueTitulo {
+	position: relative;
+    text-align: center;
+
+	color: #ffffff;
+
+	font-size: 20px;
+	font-weight: 700;
+
+	padding-bottom: 10px;
+	margin-bottom: 10px;
 }
 
-.finalizacionMetricas{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-}
 
-.ofensivaMetricas{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-}
 
-.creacionMetricas{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-}
 
-.progresionMetricas{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-}
-
-.defensivaMetricas{
-    display:flex;
-    flex-direction:column;
-    gap:10px;
-}
-
-.finalizacionItem{
-    display:flex;
-    flex-direction:column;
-    gap:6px;
-}
-
-.finalizacionCabecera{
-    display:flex;
-    align-items:center;
-    justify-content:space-between;
-    gap:12px;
-}
-
-.finalizacionNombre{
-    color:#cbd5e1;
-    font-size:13px;
-    font-weight:600;
-}
-
-.finalizacionValor{
-    color:#ffffff;
-    font-size:13px;
-    font-weight:700;
-}
-
-.barraTrack{
-    width:100%;
-    height:10px;
-    background:#1e293b;
-    border:1px solid #334155;
-    border-radius:999px;
-    overflow:hidden;
-}
-
-.barraFill{
-    height:100%;
-    background-color:#7a0000;
-    border-radius:999px;
-    transition:width 0.25s ease, background-color 0.25s ease;
-}
 
 @media (max-width: 900px){
     .percentilesJugador{
@@ -1183,8 +1084,20 @@ color:white;
         width:100%;
     }
 
-    .bloquesMetricas{
-        flex-direction:column;
+
+    .bloqueMetricasCard {
+    flex: 1;
+    background: #0f0f0f;
+    border-radius: 14px;
+    padding: 18px;
+    }
+
+    .bloquesMetricas {
+    display: flex;
+    gap: 16px;
+    align-items: flex-start;
+    width: 100%;
+    flex-wrap: wrap;
     }
 
     .columnaMetricas{
@@ -1192,16 +1105,78 @@ color:white;
         flex:0 0 100%;
     }
 
-    .bloqueFinalizacion,
     .bloqueOfensiva,
     .bloqueCreacion,
-    .bloqueProgresion{
-        width:100%;
+    .bloqueDefensivo {
+    flex: 1 1 30%;
+    min-width: 260px;
+
+    background: #0f0f0f;
+    border-radius: 14px;
+    padding: 16px;
+
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
     }
 
-    .bloqueDefensivo{
-        width:100%;
-    }
+}
+
+<!---- STATS ESTILO FM ---->
+
+.tablaMetricasFM {
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse;
+}
+
+.filaMetricaFM {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    padding: 10px 12px;
+    margin-bottom: 8px;
+
+    background: #1a1a1a;
+    border-radius: 10px;
+
+    border: none;
+    box-shadow: none;
+}
+
+.filaMetricaFM:hover {
+    background: #232323;
+    transition: 0.2s ease;
+}
+
+.metricaNombreFM {
+    color: #d4d4d4;
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.metricaValorFM {
+    font-size: 14px;
+    font-weight: 700;
+    text-align: right;
+
+    min-width: 36px;
+
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+    padding: 0;
+}
+
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td {
+    border: none;
 }
 
 /* ===== PORTADA LOGIN ===== */
@@ -1465,33 +1440,3 @@ color:white;
     }
 }
 
-<!---- STATS ESTILO FM ---->
-
-.tablaMetricasFM{
-    width: 100%;
-    border-collapse: collapse;
-    font-family: Inter, sans-serif;
-}
-
-.filaMetricaFM{
-    border-bottom: 1px solid rgba(255,255,255,0.08);
-}
-
-.metricaNombreFM{
-    padding: 7px 10px;
-    font-size: 12px;
-    color: white;
-    font-weight: 500;
-    background: #111111;
-    width: 78%;
-}
-
-.metricaValorFM{
-    width: 22%;
-    text-align: center;
-    font-weight: 800;
-    font-size: 13px;
-    color: white;
-    padding: 7px 0;
-    transition: 0.2s ease;
-}
