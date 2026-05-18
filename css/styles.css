@@ -954,6 +954,45 @@ color:white;
     border:none;
 }
 
+.cajaPercentilesIzquierda {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.bloque-exportar-ficha {
+    margin-top: 12px;
+    padding-top: 12px;
+
+    border-top: 1px solid #2a2a2a;
+
+    display: flex;
+    justify-content: center;
+}
+
+.btn-exportar-ficha {
+    background: #111;
+    color: #fff;
+
+    border: 1px solid #2a2a2a;
+    border-radius: 10px;
+
+    padding: 10px 16px;
+
+    cursor: pointer;
+
+    transition: 0.2s ease;
+}
+
+.btn-exportar-ficha:hover {
+    background: #1f1f1f;
+    border-color: #61c2ab;
+}
+
+.bloque-exportar-ficha {
+    margin-top: auto;
+}
+
 .cajaRadar{
     width:32%;
     background-color: transparent; /* o directamente eliminar la propiedad */
@@ -1439,4 +1478,5 @@ td {
         font-size:24px;
     }
 }
+
 
